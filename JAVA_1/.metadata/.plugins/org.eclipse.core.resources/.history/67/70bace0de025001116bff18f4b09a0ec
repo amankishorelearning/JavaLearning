@@ -1,0 +1,13 @@
+/**
+ * Write a Java program to display the default values of the data types of Java.
+ */
+package com.jlc.lab2;
+
+/**
+ * @author Aman Kishore
+ *
+ */
+public class Lab2 {
+	
+
+}
