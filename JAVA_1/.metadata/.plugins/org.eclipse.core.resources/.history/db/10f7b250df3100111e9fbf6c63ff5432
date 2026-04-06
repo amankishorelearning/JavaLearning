@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.jlc.lab17;
+
+/**
+ * @author Aman Kishore
+ * Objective: 
+ * Learning: 
+ */
+public class Lab17 {
+	public static void main(String[] args) {
+		final int a = 9;
+		System.out.println(a);
+		System.out.println(a + 90);
+	}
+
+}

@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package com.jlc.lab19;
+
+/**
+ * @author Aman Kishore
+ * Objective: understanding values which are allowed in boolean datatypes.
+ * Learning: int can't be used as literal in boolean datatype
+ */
+public class Lab19 {
+	public static void main(String[] args) {
+		boolean b1 = 1;
+		System.out.println();
+	}
+}
