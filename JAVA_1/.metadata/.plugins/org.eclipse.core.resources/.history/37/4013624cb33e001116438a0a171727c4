@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+package com.jlc.lab24;
+
+/**
+ * @author Aman Kishore
+ * Objective: Learning char literals
+ * Learning: 
+ */
+public class Lab24 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		char ch1 = ' ';
+		char ch2 = '	';
+		char ch3 = '/';
+		
+		System.out.println(ch3);
+				
+		
+	}
+
+}

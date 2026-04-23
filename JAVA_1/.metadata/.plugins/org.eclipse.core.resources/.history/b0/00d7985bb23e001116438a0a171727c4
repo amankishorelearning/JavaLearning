@@ -1,0 +1,25 @@
+/**
+ * 
+ */
+package com.jlc.lab23;
+
+/**
+ * @author Aman Kishore
+ * Objective: Learning character Literals
+ * Learning: Char expects at least one value. and also nothing more than one character
+ */
+public class Lab23 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		//char ch1 = ''; Empty character literal is not allowed . Compiler expects at lest a carriage return unlike string == "";
+		char ch2 = ' ';
+		//char ch3 = 'AB'; Exacty
+		char ch4 = '\';
+		char ch5 = ''';
+		
+	}
+
+}
