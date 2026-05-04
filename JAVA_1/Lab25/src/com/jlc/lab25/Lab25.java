@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+package com.jlc.lab25;
+
+/**
+ * @author Aman Kishore
+ * Objective: Understanding Escape sequences
+ * Learning: backslash works for the escape sequence.
+ */
+public class Lab25 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		char ch1 = '\'';
+		char ch2 = '\\';
+		System.out.println(ch1);
+		System.out.println(ch2);
+	}
+}

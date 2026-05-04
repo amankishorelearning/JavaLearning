@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package com.jlc.lab26;
+
+/**
+ * @author Aman Kishore
+ * Objective: Understanding escape sequences
+ * Learning: some invalid escape sequences
+ */
+public class Lab26 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		char ch1 = '\+;'
+		char ch2 = '\p';
+		char ch3 = '\a';
+		System.out.println(ch3);
+	}
+
+}
