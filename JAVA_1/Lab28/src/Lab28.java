@@ -13,8 +13,8 @@ public class Lab28 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		String str = "Welcome to \"JLC\"";
-		System.out.println(str);
+		//String str = "Welcome to "JLC""; //Error noted
+		//System.out.println(str);
 		
 	}
 

@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package com.jlcLab30;
+
+/**
+ * @author Aman Kishore
+ * Objective: Learning escape sequence
+ * Learning: invalid unicode
+ */
+public class Lab30 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		//char ch = '\\u'; 
+		//System.out.println(ch);
+	}
+
+}

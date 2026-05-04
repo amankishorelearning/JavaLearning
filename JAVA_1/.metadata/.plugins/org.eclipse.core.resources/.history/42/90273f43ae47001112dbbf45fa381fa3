@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+
+/**
+ * @author Aman Kishore
+ * Objective: understanding the escape sequences
+ * Learning: Output the double quote with the escape sequences.
+ */
+public class Lab28 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		//String str = "Welcome to "JLC""; //Error noted
+		System.out.println(str);
+		
+	}
+
+}
