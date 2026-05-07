@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package com.jlc.lab35;
+
+/**
+ * @author Aman Kishore
+ * Objective: Learning ASCII characters
+ * Learning: 
+ */
+public class Lab35 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		char ch1 = 0;
+		char ch2 = 65536;
+		System.out.println(ch1);
+		System.out.println(ch2);
+	}
+
+}
