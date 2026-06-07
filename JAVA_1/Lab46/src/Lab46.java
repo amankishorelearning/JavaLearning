@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+
+/**
+ * @author Aman Kishore
+ * Objective: Learning permissible range of long data type
+ * Learning: If L is not suffixed it will be treated as int by default. When is is suffixed, we tell the computer that it is Long.
+ */
+public class Lab46 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		long a = 2147483648L;
+		System.out.println(a);
+		
+		
+	}
+
+}

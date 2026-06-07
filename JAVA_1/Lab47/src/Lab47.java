@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+
+/**
+ * @author Aman Kishore
+ * Objective: any digit by default will be treated as int. But if its out of range and not suffixed by its data type will return and error.
+ * Learning: 
+ */
+public class Lab47 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		System.out.println(9880);
+		//System.out.println(9880989999);
+	}
+
+}
